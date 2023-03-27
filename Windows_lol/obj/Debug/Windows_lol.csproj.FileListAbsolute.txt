@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\bin\Debug\Windows_lol.exe.config
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\bin\Debug\Windows_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\bin\Debug\Windows_lol.pdb
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.Form1.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.Properties.Resources.resources
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.exe
+C:\Users\Asus\Desktop\Вуз тупа\Шарпы\OS\lab5_lol\Windows_lol\obj\Debug\Windows_lol.pdb
